@@ -1,0 +1,27 @@
+After input:
+List<Student> students;
+List<Integer> groups
+List<Mark> marks;
+
+Groups:
+groups.toArray()
+
+Students:
+Loop through students, find mark in marks, print
+
+Absentees:
+students.stream().filter(x -> !(x.plab in marks))
+
+Mark frequency:
+(proper way is using collectors which is out of syllabus)
+maxMark = marks.stream().mapToInt(m -> m.mark).max().getAsInt()
+int[] freq = new int[maxMark];
+loop through marks and increment freq accordingly
+Loop through freq and print from first non-zero
+
+Mark frequency per group:
+for each group
+	marks.stream()
+	.filter(m -> get student from m.plab; s.group == group)
+	.toArray()
+	pass to mark frequency method

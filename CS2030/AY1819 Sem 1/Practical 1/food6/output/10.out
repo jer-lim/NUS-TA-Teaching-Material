@@ -1,0 +1,37 @@
+Error: Invalid combo input 0 1 2
+Error: Invalid combo input 0 2 1
+Error: Invalid combo input 1 0 2
+Error: Invalid combo input 1 2 0
+Error: Invalid combo input 2 0 1
+#2 Burger: Hamburger (399)
+#3 Burger: CheeseBurger (200)
+#1 Snack: Fries (189)
+#4 Snack: Drumlets (169)
+#0 Drink: SoftDrink (149)
+#5 Drink: OrangeJuice (209)
+#6 Combo (687)
+   #2 Burger: Hamburger (399)
+   #1 Snack: Fries (189)
+   #0 Drink: SoftDrink (149)
+--- Order ---
+#0 Drink: SoftDrink (149)
+#1 Snack: Fries (189)
+#2 Burger: Hamburger (399)
+#3 Burger: CheeseBurger (200)
+#4 Snack: Drumlets (169)
+#5 Drink: OrangeJuice (209)
+#6 Combo (687)
+   #2 Burger: Hamburger (399)
+   #1 Snack: Fries (189)
+   #0 Drink: SoftDrink (149)
+#6 Combo (687)
+   #2 Burger: Hamburger (399)
+   #1 Snack: Fries (189)
+   #0 Drink: SoftDrink (149)
+#5 Drink: OrangeJuice (209)
+#4 Snack: Drumlets (169)
+#3 Burger: CheeseBurger (200)
+#2 Burger: Hamburger (399)
+#1 Snack: Fries (189)
+#0 Drink: SoftDrink (149)
+Total: 4004

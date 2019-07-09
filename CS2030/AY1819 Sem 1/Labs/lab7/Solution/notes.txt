@@ -1,0 +1,5 @@
+https://codecrunch.comp.nus.edu.sg/task_view.php?tid=4071
+
+like LinkedList
+i -> i -> i ->
+head + tail

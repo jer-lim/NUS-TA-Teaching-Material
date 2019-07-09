@@ -1,0 +1,26 @@
+add Burger BaconCheeseburger 149
+add Burger BaconDoubleCheeseburger 229
+add Drink Icee 209
+add Burger BaconCheeseburgerDeluxe 169
+add Burger DoubleCheeseburger 169
+add Drink BottledWater 109
+add Burger Hamburger 100
+add Snack FrenchFries 239
+add Combo 1 7 2
+add Burger Cheeseburger 100
+add Drink AppleJuice 129
+add Burger CrispyChicken 100
+add Snack OnionRings 239
+add Burger SpicyCrispyChicken 100
+add Drink OrangeJuice 169
+add Burger RodeoCrispyChicken 100
+add Drink FountainDrink  239
+add Burger RodeoBurger 100
+add Snack ChickenNuggets 499
+add Burger ChickenNuggets 119
+end
+0 1 2 3 5 6 7 8 9
+0 1 2 3 5 6 7 8 9
+0 1 2 3 5 6 7 8 9
+0 1 2 3 5 6 7 8 9
+0 1 2 3 5 6 7 8 9

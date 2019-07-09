@@ -1,0 +1,14 @@
+add Drink SoftDrink 149
+add Snack Fries 189
+add Burger Hamburger 399
+add Burger CheeseBurger 200
+add Snack Drumlets 169
+add Drink OrangeJuice 209
+add Combo 2 1 0
+add Combo 0 1 2
+add Combo 0 2 1
+add Combo 1 0 2
+add Combo 1 2 0
+add Combo 2 0 1
+end 
+0 1 2 3 4 5 6 6 5 4 3 2 1 0
