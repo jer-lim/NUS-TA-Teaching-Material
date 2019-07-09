@@ -1,0 +1,5 @@
+javac mypackage\subpackage\*.java
+
+jar cvfm Test.jar manifest.txt mypackage\subpackage\*class
+
+java -cp . -jar Test.jar
